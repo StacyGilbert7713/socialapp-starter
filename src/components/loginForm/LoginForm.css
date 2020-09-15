@@ -2,7 +2,10 @@
   display: flex;
   flex-direction: column;
   max-width: 20em;
-  font-style: inherit;
+  font-style: monospace;
+  background-image: url(https://logodix.com/logo/57655.jpg);
+  background-position-x: inherit;
+  background-image: color white;
   color: rgb(194, 78, 24);
   text-shadow: 0 1px rgb(223, 107, 40), -1px 0 rgb(197, 81, 14),
     1px 0 rgb(177, 36, 36), 0 -1px rgba(141, 17, 17, 0.993);
